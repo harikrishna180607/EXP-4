@@ -36,16 +36,35 @@ PROCEDURE:
 
 CIRCUIT DIAGRAMS
 
-Half wave rectifier with filter:
+<img width="1154" height="1095" alt="image" src="https://github.com/user-attachments/assets/7c87469a-4fe8-4535-be80-6e163ee5f3b1" />
 
-Bridge rectifier with filter:
+Half wave rectifier with filter,Bridge rectifier with filter:
 
 TABULAR COLUMN
-Rectifier without filter
-TABULAR COLUMN
-Rectifier with filter
 
-WAVEFORM:
+<img width="1216" height="577" alt="image" src="https://github.com/user-attachments/assets/2ce0267c-afb2-4d1f-b879-0cab64a37e58" />
+
+Rectifier without filter,Rectifier with filter
+
+<img width="1244" height="1051" alt="image" src="https://github.com/user-attachments/assets/c09c699d-355a-4ffd-939e-ff03b12d7097" />
+
+
+TABULAR COLUMN
+
+
+<img width="1136" height="515" alt="image" src="https://github.com/user-attachments/assets/64d2ea32-a5c5-47f4-8d10-46521b4b86b6" />
+
+
+
+Diagram,WAVEFORM:
+<img width="701" height="569" alt="Screenshot 2026-02-11 110703" src="https://github.com/user-attachments/assets/38ed1f0a-416f-4e67-8cb6-6177a2afab10" />
+<img width="1377" height="854" alt="Screenshot 2026-02-11 110634" src="https://github.com/user-attachments/assets/d564355e-328b-4734-88d3-e90acd8330c9" />
+<img width="1074" height="656" alt="Screenshot 2026-02-11 114717" src="https://github.com/user-attachments/assets/3b1bba33-16dc-4eb8-a6a1-952de0110c7b" />
+<img width="1381" height="870" alt="Screenshot 2026-02-11 114708" src="https://github.com/user-attachments/assets/b0ffae83-c969-40d0-b219-acf59b2497b3" />
+<img width="1398" height="864" alt="Screenshot 2026-02-11 113551" src="https://github.com/user-attachments/assets/d119b98c-3584-4049-a34b-99a72b20a4aa" />
+<img width="722" height="610" alt="Screenshot 2026-02-11 113224" src="https://github.com/user-attachments/assets/135f566c-b749-49fd-938e-6970a1fb85f3" />
+<img width="1158" height="813" alt="Screenshot 2026-02-11 112726" src="https://github.com/user-attachments/assets/317813e4-d118-4090-b8ec-0ce29f598f17" />
+<img width="1372" height="875" alt="Screenshot 2026-02-11 112710" src="https://github.com/user-attachments/assets/0aa74983-0544-42c8-bf0c-060133dc527d" />
 
 
 RESULT:
